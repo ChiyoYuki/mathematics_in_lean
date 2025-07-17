@@ -4,3 +4,6 @@
 .lake
 /.cache
 .DS_Store
+
+.gitignore
+/extra
